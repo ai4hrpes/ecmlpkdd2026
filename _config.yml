@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            "AI4HR &\nPES"
+tagline:          ''
+description:      'International workshop on AI for Human Resources and Public Employment Services'
+url:              https://ai4hrpes.github.io/ecmlpkdd2026/
+baseurl:          https://ai4hrpes.github.io/ecmlpkdd2026/
+destination:      _site
+
+author:
+  name:           'Bo Kang'
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/ai4hrpes/ecmlpkdd2026
+
+plugins:
+  - jekyll-paginate
+
