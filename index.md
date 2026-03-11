@@ -17,6 +17,7 @@ The AI4HR&PES workshop aims to study how to address the __challenges of the cont
 * Applications of retrieval augmented generation (RAG) on HR use cases
 * AI for curriculum and career advice
 * NLP for analyzing, writing, and editing CVs and job adverts
+* Skill extraction and forecasting
 * Taxonomies and ontologies for HR data (creation and use cases)
 * Knowledge graphs for HR data (creation and use cases)
 * Visualisation techniques applied to HR data
