@@ -57,10 +57,10 @@ For accepted contributions, at least one author must register for the conference
 Submission Portal: <https://cmt3.research.microsoft.com/ECMLPKDDWT2026/Track/20/Submission/Create>
 
 ### Important Dates  
-* __Submission Deadline__: June 5th, 2026 - AoE at 23:59
-* __Author Notification__: June 26th, 2026 - AoE at 23:59
-* __Camera-ready Deadline__: July 10th. 2026 - AoE at 23:59
-* __Workshop date__: September 7th, 2026
+* __Submission Deadline__: June 19th, 2026 - AoE at 23:59
+* __Author Notification__: July 7th, 2026 - AoE at 23:59
+* __Camera-ready Deadline__: July 11th. 2026 - AoE at 23:59
+* __Workshop date__: September 11th, 2026
 
 ## Further information and Contact 
 * __Organizers__: Alexandru C. Mara, Guillaume Bied, Bo Kang, Matthias De Lange, Christine Largeron, Toine Bogers, Tijl De Bie
