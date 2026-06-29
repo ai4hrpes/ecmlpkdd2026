@@ -58,8 +58,8 @@ Submission Portal: <https://cmt3.research.microsoft.com/ECMLPKDDWT2026/Track/20/
 
 ### Important Dates  
 * __Submission Deadline__: June 19th, 2026 - AoE at 23:59
-* __Author Notification__: July 7th, 2026 - AoE at 23:59
-* __Camera-ready Deadline__: July 11th. 2026 - AoE at 23:59
+* __Author Notification__: July 11th, 2026 - AoE at 23:59
+* __Camera-ready Deadline__: July 25th. 2026 - AoE at 23:59
 * __Workshop date__: September 11th, 2026
 
 ## Further information and Contact 
