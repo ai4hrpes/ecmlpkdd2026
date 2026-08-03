@@ -328,7 +328,7 @@ permalink: /program/
       <span class="ai4hr-label">Contributed Presentation 3</span>
       <div class="ai4hr-title"><em>An Agentic Hybrid Top-Down and Bottom-Up Approach to Knowledge Graph Generation</em></div>
       <div class="ai4hr-meta">
-        <span class="ai4hr-speaker">Marc Palyart</span>
+        <span class="ai4hr-speaker">Emma Jouffroy</span>
         <span class="ai4hr-location">Conference Rooms</span>
       </div>
     </div>
