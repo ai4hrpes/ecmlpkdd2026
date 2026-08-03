@@ -372,7 +372,7 @@ permalink: /program/
     <div class="ai4hr-time">14:30 – 15:10</div>
     <div class="ai4hr-content">
       <span class="ai4hr-label">Keynote 3</span>
-      <div class="ai4hr-title">Thom Lake <span class="ai4hr-online-badge">Online</span></div>
+      <div class="ai4hr-title">TBD <span class="ai4hr-online-badge">Online</span></div>
       <div class="ai4hr-meta"><span class="ai4hr-location">Conference Rooms</span></div>
     </div>
   </div>
