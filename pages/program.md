@@ -261,7 +261,7 @@ permalink: /program/
     <div class="ai4hr-time">10:30 – 11:10</div>
     <div class="ai4hr-content">
       <span class="ai4hr-label">Keynote 1</span>
-      <div class="ai4hr-title">Charlotte Laclau</div>
+      <div class="ai4hr-title">Sabrina Mühlbauer</div>
       <div class="ai4hr-meta"><span class="ai4hr-location">Conference Rooms</span></div>
     </div>
   </div>
@@ -271,9 +271,9 @@ permalink: /program/
     <div class="ai4hr-time">11:10 – 11:25</div>
     <div class="ai4hr-content">
       <span class="ai4hr-label">Contributed Presentation 1</span>
-      <div class="ai4hr-title"><em>An Agentic Hybrid Top-Down and Bottom-Up Approach to Knowledge Graph Generation</em></div>
+      <div class="ai4hr-title"><em>DRAFT: A Dataset for Recruitment Assessment and Fairness Tracking</em></div>
       <div class="ai4hr-meta">
-        <span class="ai4hr-speaker">Marc Palyart</span>
+        <span class="ai4hr-speaker">Tristan Cladière</span>
         <span class="ai4hr-location">Conference Rooms</span>
       </div>
     </div>
@@ -284,9 +284,9 @@ permalink: /program/
     <div class="ai4hr-time">11:25 – 11:40</div>
     <div class="ai4hr-content">
       <span class="ai4hr-label">Contributed Presentation 2</span>
-      <div class="ai4hr-title"><em>Evaluating RAG for French immigration law: a benchmark and baseline study</em></div>
+      <div class="ai4hr-title"><em>JobHop~v2: A Large-Scale Multilingual Career Trajectory Dataset from Unstructured Resumes</em></div>
       <div class="ai4hr-meta">
-        <span class="ai4hr-speaker">Annia Abtout</span>
+        <span class="ai4hr-speaker">Iman Johary</span>
         <span class="ai4hr-location">Conference Rooms</span>
       </div>
     </div>
@@ -316,7 +316,7 @@ permalink: /program/
     <div class="ai4hr-time">12:05 – 12:45</div>
     <div class="ai4hr-content">
       <span class="ai4hr-label">Keynote 2</span>
-      <div class="ai4hr-title">Thom Lake <span class="ai4hr-online-badge">Online</span></div>
+      <div class="ai4hr-title">Charlotte Laclau</div>
       <div class="ai4hr-meta"><span class="ai4hr-location">Conference Rooms</span></div>
     </div>
   </div>
@@ -326,9 +326,9 @@ permalink: /program/
     <div class="ai4hr-time">12:45 – 13:00</div>
     <div class="ai4hr-content">
       <span class="ai4hr-label">Contributed Presentation 3</span>
-      <div class="ai4hr-title"><em>DRAFT: A Dataset for Recruitment Assessment and Fairness Tracking</em></div>
+      <div class="ai4hr-title"><em>An Agentic Hybrid Top-Down and Bottom-Up Approach to Knowledge Graph Generation</em></div>
       <div class="ai4hr-meta">
-        <span class="ai4hr-speaker">Tristan Cladière</span>
+        <span class="ai4hr-speaker">Marc Palyart</span>
         <span class="ai4hr-location">Conference Rooms</span>
       </div>
     </div>
@@ -339,9 +339,9 @@ permalink: /program/
     <div class="ai4hr-time">13:00 – 13:15</div>
     <div class="ai4hr-content">
       <span class="ai4hr-label">Contributed Presentation 4</span>
-      <div class="ai4hr-title"><em>JobHop~v2: A Large-Scale Multilingual Career Trajectory Dataset from Unstructured Resumes</em></div>
+      <div class="ai4hr-title"><em>Evaluating RAG for French immigration law: a benchmark and baseline study</em></div>
       <div class="ai4hr-meta">
-        <span class="ai4hr-speaker">Iman Johary</span>
+        <span class="ai4hr-speaker">Annia Abtout</span>
         <span class="ai4hr-location">Conference Rooms</span>
       </div>
     </div>
@@ -372,7 +372,7 @@ permalink: /program/
     <div class="ai4hr-time">14:30 – 15:10</div>
     <div class="ai4hr-content">
       <span class="ai4hr-label">Keynote 3</span>
-      <div class="ai4hr-title">Sabrina Mühlbauer</div>
+      <div class="ai4hr-title">Thom Lake <span class="ai4hr-online-badge">Online</span></div>
       <div class="ai4hr-meta"><span class="ai4hr-location">Conference Rooms</span></div>
     </div>
   </div>
